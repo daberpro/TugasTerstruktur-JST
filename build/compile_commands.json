@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/c++/Smester 4/JST/build",
+  "command": "C:\\winlibs-x86_64-posix-seh-gcc-13.2.0-llvm-17.0.6-mingw-w64ucrt-11.0.1-r5\\mingw64\\bin\\g++.exe  @CMakeFiles/JST.dir/includes_CXX.rsp  -static-libgcc -static-libstdc++ -pthread -g -o CMakeFiles\\JST.dir\\main.cpp.obj -c \"D:\\c++\\Smester 4\\JST\\main.cpp\"",
+  "file": "D:/c++/Smester 4/JST/main.cpp",
+  "output": "CMakeFiles/JST.dir/main.cpp.obj"
+}
+]
